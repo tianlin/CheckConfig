@@ -1,0 +1,7 @@
+﻿  stdafx.cpp
+  CheckConfig.cpp
+  dllmain.cpp
+  正在生成代码...
+    正在创建库 C:\YottaByte\CheckConfig\x64\Debug\CheckConfig.lib 和对象 C:\YottaByte\CheckConfig\x64\Debug\CheckConfig.exp
+CheckConfig.exp : error LNK2001: 无法解析的外部符号 _CheckConfig@4
+C:\YottaByte\CheckConfig\x64\Debug\CheckConfig.dll : fatal error LNK1120: 1 个无法解析的外部命令
